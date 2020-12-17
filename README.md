@@ -1,1 +1,1 @@
-In this mini-project, we will query the Chinook Database. The Chinook Database holds information about a music store. For this lab, we will be answering 4 queries to help the Chinook team understand the media in their store, their customers and employees, and their invoice information.
+In this mini-project, we will query the Chinook Database. The Chinook Database holds information about a music store. For this lab, we will be answering 9 queries to help the Chinook team understand the media in their store, their customers and employees, and their invoice information.
